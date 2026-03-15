@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏎️ F1 2D — Top-Down Racing Game
 
 A fully featured 2D top-down F1-style racing game built with Python and Pygame. Race on 10 iconic circuits, manage your tyre strategy, battle AI drivers, and compete with a PS5 DualSense controller or keyboard.
